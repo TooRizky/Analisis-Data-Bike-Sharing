@@ -40,4 +40,3 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan d
     streamlit run dashboard.py
     ```
     Atau anda dapat mengunjungi laman website berikut ini  [BikeShare](https://bikesharetoorizky.streamlit.app/)
-# Analisis-Dataset-Bike-Sharing
